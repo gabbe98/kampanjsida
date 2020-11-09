@@ -1,4 +1,4 @@
-# Core theme
+# Arcade theme
 
 **Contributors:** Gabriel Dahlberg 
 **Wordpress Version:** 5.5.1 
@@ -6,7 +6,7 @@
 
 ## Description
 
-Basic theme used for a Wordpress campaign site.
+Basic theme used for a Wordpress campaign site. This was a lab we had in a CMS development course.
 
 ## Frequently Asked Questions
 
